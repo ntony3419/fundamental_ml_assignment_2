@@ -1,9 +1,11 @@
 # ignore zip file
-.zip
-.tar
-
+*.zip
+*.tar
+*.tar.gz
 
 
 # ignore folder
 cifar-10
 cifar-10-batches-py
+env
+# 
